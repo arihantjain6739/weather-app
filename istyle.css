@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+.one{
+    
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    color: purple
+}
+
+.line1{
+    text-align: center;
+    color: white;
+    /* background-color: transparent; */
+    
+}

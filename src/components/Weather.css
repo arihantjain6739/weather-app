@@ -6,7 +6,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
+
+
 
 .search-bar{
     display: flex;
@@ -65,5 +68,16 @@
     align-items: flex-start;
     gap: 12px;
     font-size: 22px;
-    
+
 }
+
+.weather-data .col span{
+    display: block;
+    font-size: 16px;
+}
+
+.weather-data .col img{
+    width: 26px;
+    margin-top: 10px;
+}
+
